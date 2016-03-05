@@ -1,1 +1,7 @@
 "# mta_hack" 
+"MTA SI Hackathon Team Members:" 
+"Alisha Beth Beatty" 
+"Rachel Beth Cohen" 
+"Quintus Murray" 
+"Jiawei He" 
+"Matthew Urbanek" 
